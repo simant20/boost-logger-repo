@@ -1,0 +1,160 @@
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:36:24.814010] [0x00007f3aa5b85000] [error][0x000088ef] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x0000555F09B739A5 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 1# 0x0000555F09B74269 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 2# 0x00007F3AA67ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x0000555F09B6596D in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 5# 0x0000555F09B7C857 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 6# 0x0000555F09B7CC5F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 7# 0x0000555F09B62976 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 8# 0x00007F3AA67D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+ 9# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+10# 0x0000555F09B62C25 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:36:32.769630] [0x00007f011eee3000] [error][0x00008911] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x00005640122419A5 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 1# 0x0000564012242269 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 2# 0x00007F011F5ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x000056401223396D in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 5# 0x000056401224A857 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 6# 0x000056401224AC5F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 7# 0x0000564012230976 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 8# 0x00007F011F5D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+ 9# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+10# 0x0000564012230C25 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:37:24.261763] [0x00007f96bc0b6000] [error][0x00008961] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x000055F57CA76509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x000055F57CA766CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007F96BC9ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x000055F57CA51831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x000055F57CA5157F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x000055F57CA8B15A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x000055F57CA8B00E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x000055F57CA7677C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007F96BC9D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x000055F57CA51325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:44:06.398231] [0x00007f3380edf000] [error][0x00008a78] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x0000555C3F41F509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x0000555C3F41F6CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007F33815ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x0000555C3F3FA831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x0000555C3F3FA57F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x0000555C3F43415A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x0000555C3F43400E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x0000555C3F41F77C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007F33815D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x0000555C3F3FA325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:45:16.497317] [0x00007fe6f5127000] [error][0x00008ac8] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x00005590B5364509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x00005590B53646CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007FE6F5DED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x00005590B533F831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x00005590B533F57F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x00005590B537915A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x00005590B537900E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x00005590B536477C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007FE6F5DD4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x00005590B533F325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:46:45.189553] [0x00007f765b0dd000] [error][0x00008b84] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x00005619DD004509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x00005619DD0046CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007F765B7ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x00005619DCFDF831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x00005619DCFDF57F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x00005619DD01915A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x00005619DD01900E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x00005619DD00477C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007F765B7D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x00005619DCFDF325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 12:46:48.473101] [0x00007fb45955d000] [error][0x00008baf] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x0000563DB4B5C509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x0000563DB4B5C6CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007FB45A1ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x0000563DB4B37831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x0000563DB4B3757F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x0000563DB4B7115A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x0000563DB4B7100E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x0000563DB4B5C77C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007FB45A1D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x0000563DB4B37325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 14:48:29.208794] [0x00007fa7e92c3000] [error][0x0000961a] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x00005599DF9D0509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x00005599DF9D06CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007FA7E9DED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x00005599DF9AB831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x00005599DF9AB57F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x00005599DF9E515A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x00005599DF9E500E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x00005599DF9D077C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007FA7E9DD4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x00005599DF9AB325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-25 16:03:31.328070] [0x00007f3aa98b6000] [error][0x0000a7ea] [1] Segmentation fault occurred
+[Backtrace:
+ 0# 0x000055E125B9F509 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 1# 0x000055E125B9F6CF in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 2# 0x00007F3AAA3ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 3# QWidget::show() in /opt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5
+ 4# 0x000055E125B7A831 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 5# 0x000055E125B7A57F in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 6# 0x000055E125BB415A in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 7# 0x000055E125BB400E in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 8# 0x000055E125B9F77C in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+ 9# 0x00007F3AAA3D4D90 in /lib/x86_64-linux-gnu/libc.so.6
+10# __libc_start_main in /lib/x86_64-linux-gnu/libc.so.6
+11# 0x000055E125B7A325 in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------

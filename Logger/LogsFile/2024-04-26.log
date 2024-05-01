@@ -1,0 +1,64 @@
+-----------------------------------------------------------------------------------------------
+[2024-04-26 17:43:12.693755] [0x00007faccdab6000] [error][0x0000503d] [1] 
+[Backtrace:
+ 0# signal_handler(int) at ../TASK3_Distortion/main.cpp:28
+ 1# 0x00007FACCE3ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 2# Left::setImage(cv::Mat) at ../TASK3_Distortion/left.cpp:30
+ 3# Left::Left(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, QWidget*) at ../TASK3_Distortion/left.cpp:15
+ 4# MainWindow::setLayout() at ../TASK3_Distortion/mainwindow.cpp:21
+ 5# MainWindow::MainWindow(QWidget*) at ../TASK3_Distortion/mainwindow.cpp:11
+ 6# main at ../TASK3_Distortion/main.cpp:41
+ 7# __libc_start_call_main at ../sysdeps/nptl/libc_start_call_main.h:58
+ 8# __libc_start_main at ../csu/libc-start.c:379
+ 9# _start in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-26 17:48:50.140911] [0x00007f298cebd000] [error][0x000051f4] [1] 
+[Backtrace:
+ 0# signal_handler(int) at ../TASK3_Distortion/main.cpp:29
+ 1# 0x00007F298DBED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 2# Left::setImage(cv::Mat) at ../TASK3_Distortion/left.cpp:30
+ 3# Left::Left(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, QWidget*) at ../TASK3_Distortion/left.cpp:15
+ 4# MainWindow::setLayout() at ../TASK3_Distortion/mainwindow.cpp:21
+ 5# MainWindow::MainWindow(QWidget*) at ../TASK3_Distortion/mainwindow.cpp:11
+ 6# main at ../TASK3_Distortion/main.cpp:41
+ 7# __libc_start_call_main at ../sysdeps/nptl/libc_start_call_main.h:58
+ 8# __libc_start_main at ../csu/libc-start.c:379
+ 9# _start in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Debug/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-26 17:49:09.610761] [0x00007f796b6c3000] [error][0x00005264] [1] 
+[Backtrace:
+ 0# signal_handler(int) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 1# 0x00007F796C1ED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 2# Left::setImage(cv::Mat) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 3# Left::Left(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, QWidget*) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 4# MainWindow::setLayout() in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 5# MainWindow::MainWindow(QWidget*) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 6# main in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 7# __libc_start_call_main at ../sysdeps/nptl/libc_start_call_main.h:58
+ 8# __libc_start_main at ../csu/libc-start.c:379
+ 9# _start in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[2024-04-26 17:51:34.297105] [0x00007fa9e24e3000] [error][0x000052b9] [1] 
+[Backtrace:
+ 0# signal_handler(int) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 1# 0x00007FA9E2BED520 in /lib/x86_64-linux-gnu/libc.so.6
+ 2# Left::setImage(cv::Mat) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 3# Left::Left(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, QWidget*) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 4# MainWindow::setLayout() in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 5# MainWindow::MainWindow(QWidget*) in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 6# main in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+ 7# __libc_start_call_main at ../sysdeps/nptl/libc_start_call_main.h:58
+ 8# __libc_start_main at ../csu/libc-start.c:379
+ 9# _start in /mnt/Data/QT_Tasks/Task_3Distortion/src/build-TASK3_Distortion-Desktop_Qt_5_12_9_GCC_64bit-Release/TASK3_Distortion
+]
+
+-----------------------------------------------------------------------------------------------
