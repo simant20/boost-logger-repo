@@ -13,3 +13,8 @@ int main(int argc, char* argv[]) {
    LOG(INFO) << "My first info log using default logger";
    return 0;
 }
+
+int main(int argc, char* argv[]) {
+   LOG(INFO) << "My first info log using default logger";
+   return 0;
+}
