@@ -26,4 +26,11 @@ void Test::fun2() {
 void Test::_delete_() {
     if(ptr) delete ptr;
     ptr = NULL;
+    
+}
+
+void Test::_delete_() {
+    if(ptr) delete ptr;
+    ptr = NULL;
+    
 }
